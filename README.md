@@ -1,7 +1,6 @@
 # Langchain_projects 
 LangChain Exploration
 
-Welcome to my LangChain repository! 🚀This project delves into the fascinating world of LangChain, LLMs (Large Language Models), and prompt engineering. Whether you're just starting out with LLMs or looking to build advanced AI-driven applications, this repo is a comprehensive resource to guide you through the essentials and beyond.
 
 What is LangChain?
 
